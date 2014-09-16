@@ -145,7 +145,7 @@ int Phone_Directory::find(const string& name) const
 	}
 	return -1;
 }
-/** Add a new name-number pair to the directory.
+/* Add a new name-number pair to the directory.
 	@param name The name to be added
 	@param number The number to be added
 	*/
